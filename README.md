@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudheerimmidisetti
 - 👀 I’m passionate about programming and problem-solving
 - 🌱 Currently learning Java, Python, and Advanced Data Structures
-- 💻 Completed certifications in C, C++, Python, and Java
+- 💻 Completed certifications in C, C++, HTML and CSS
 - 🏆 LeetCode: Solved 250+ problems
 - 🏅 HackerRank: 4-star badge in C and Python, and earned a 3-star badge in C++, Java, and Problem Solving
 - 🌐 GeeksforGeeks: 3-star coder
