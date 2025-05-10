@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @sudheerimmidisetti
 - 👀 I’m passionate about programming and problem-solving
-- 🌱 Currently learning Operating System and SQL
-- 💻 Completed certifications in C, C++, Java, Python, HTML and CSS
-- 🏆 LeetCode: Solved 300+ problems
-- 🏅 HackerRank: 4-star badge in C and Python, and earned a 3-star badge in C++, Java, and Problem Solving
-- 🌐 GeeksforGeeks: 3-star coder in Contest
-- 🏅 CodeChef: Solved 700+ problems and achieved 2-star in Contest
-- 🚗 Project: Developed a Car Wash Queue Simulation using C, demonstrating skills in data structures and queue management
+- 🌱 Currently learning Full Stack Development with React Native
+- 💻 Completed certifications in C, C++, Java, Python, SQL, HTML and CSS
+- 🏆 Achieved a contest rating of 1642 (Top 18% globally) with 400+ problems solved on LeetCode.
+- 🏅 Earned 4-star badges in C, SQL, Java and Python; 3-star badges in C++ and Problem Solving on HackerRank.
+- 🌐 3-star coder in GeeksforGeeks and solved 230+ programming problems.
+- 🏅 Solved 700+ problems on CodeChef with a highest rating of 1442.
+- 🚗 Developed a project Car Wash Queue Management System using C, demonstrating skills in data structures and queue management
 - 📚 Always looking to improve my skills and contribute to meaningful projects!
 
 <!---
