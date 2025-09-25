@@ -5,7 +5,7 @@
 - 🏆 Achieved a contest rating of 1642 (Top 18% globally) with 400+ problems solved on LeetCode.
 - 🏅 Earned 4-star badges in C, SQL, Java and Python; 3-star badges in C++ and Problem Solving on HackerRank.
 - 🌐 3-star coder in GeeksforGeeks and solved 240+ programming problems.
-- 🏅 Solved 800+ problems on CodeChef with a highest rating of 1454.
+- 🏅 Solved 800+ problems on CodeChef with a highest rating of 1488.
 - 🚗 Developed a Car Wash Queue Management System using C, demonstrating skills in data structures and queue management.
 - 🏥 Developed the KYH project using HTML and CSS, demonstrating skills in responsive web design and user interface development.
 - 📚 Always looking to improve my skills and contribute to meaningful projects!
