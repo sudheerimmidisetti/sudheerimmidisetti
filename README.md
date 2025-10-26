@@ -19,6 +19,7 @@
 📫 Reach me at: [sudheerimmidisetti@gmail.com](mailto:sudheerimmidisetti@gmail.com)  
 👨‍💻 Connect on [LinkedIn](https://www.linkedin.com/in/sudheer-immidisetti-619323291/)  
 
+![Profile Views](https://komarev.com/ghpvc/?username=sudheerimmidisetti&style=flat-square&color=blue)
 ---
 
 ## 💻 Tech Stack:
