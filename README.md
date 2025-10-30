@@ -62,6 +62,6 @@ A medical website designed to provide accurate information about medicines and d
 <!-- ![Sudheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheerimmidisetti&show_icons=true&theme=radical)  -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerimmidisetti&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudheerimmidisetti&theme=radical)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudheerimmidisetti&theme=radical) -->
 
 ---
