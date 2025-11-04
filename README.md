@@ -8,10 +8,10 @@
 - 👀 Passionate about programming, data structures, and problem-solving.  
 - 🌱 Currently learning Full Stack Development and exploring React & modern web tools.  
 - 💻 Certified in C, C++, Java, Python, SQL, HTML, CSS, JS, and ReactJS Basics.  
-- 🏆 Achieved a **LeetCode rating of 1642 (Top 18%)** with **500+ problems solved**.  
+- 🏆 Achieved a **LeetCode rating of 1668 (Top 15%)** with **500+ problems solved**.  
 - 🥇 **4⭐ badges** in C, SQL, Java, and Python; **3⭐ badges** in C++ and Problem Solving on HackerRank.  
 - 🌐 **3⭐ coder on GeeksforGeeks**, solved **250+ problems**.  
-- 💪 Solved **800+ problems on CodeChef**, highest rating **1509**.  
+- 💪 Solved **800+ problems on CodeChef**, highest rating **1520**.  
 - 🚗 Built a **Car Wash Queue Management System** using C (Queue Data Structure).  
 - 🏥 Created **KYH (Know Your Health)** website using HTML & CSS.  
 - 📚 Always eager to learn, build, and contribute to impactful tech projects.  
