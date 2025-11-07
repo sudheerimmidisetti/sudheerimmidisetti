@@ -13,7 +13,7 @@
 - 🏆 Achieved a **LeetCode rating of 1668 (Top 15%)** with **500+ problems solved**.  
 - 🥇 **4⭐ badges** in C, SQL, Java, and Python; **3⭐ badges** in C++ and Problem Solving on HackerRank.  
 - 🌐 **3⭐ coder on GeeksforGeeks**, solved **250+ problems**.  
-- 💪 Solved **800+ problems on CodeChef**, achieved a highest rating of **1522**.  
+- 💪 Solved **850+ problems on CodeChef**, achieved a highest rating of **1522**.  
 - 🚗 Built a **Car Wash Queue Management System** using C (Queue Data Structure).  
 - 🏥 Created **KYH (Know Your Health)** website using HTML & CSS.  
 - 📚 Always eager to learn, build, and contribute to impactful tech projects.  
@@ -64,6 +64,6 @@ A medical website designed to provide accurate information about medicines and d
 <!-- ![Sudheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheerimmidisetti&show_icons=true&theme=radical)  -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerimmidisetti&layout=compact&theme=radical)  
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudheerimmidisetti&theme=radical) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudheerimmidisetti&theme=radical)
 
 ---
