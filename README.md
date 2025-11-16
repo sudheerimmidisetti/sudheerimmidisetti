@@ -14,7 +14,7 @@
 - 🥇 **4⭐ badges** in C, SQL, Java, and Python; **3⭐ badges** in C++ and Problem Solving on HackerRank.
 - 🌐 **3⭐ coder on GeeksforGeeks**, solved **250+ problems**.
 - 💪 Solved **850+ problems on CodeChef**, achieved a highest rating of **1522**.
-- 🧩 **Codeforces Newbie** with a **peak rating of 1115** and **220+ problems solved**.
+- 🧩 **Codeforces Newbie** with a **peak rating of 1115** and **230 problems solved**.
 - 🚗 Built a **Car Wash Queue Management System** using C (Queue Data Structure).
 - 🏥 Created **KYH (Know Your Health)** website using HTML & CSS.
 - 📚 Always eager to learn, build, and contribute to impactful tech projects.
