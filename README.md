@@ -10,7 +10,7 @@
 - 👀 Passionate about programming, data structures, and problem-solving.
 - 🌱 Currently learning Full Stack Development and exploring React & modern web tools.
 - 💻 Certified in C, C++, Java, Python, SQL, HTML, CSS, JS, and ReactJS Basics.
-- 🏆 Achieved a **LeetCode rating of 1694 (Top 13%)** with **565+ problems solved**.
+- 🏆 Achieved a **LeetCode rating of 1694 (Top 13%)** with **570+ problems solved**.
 - 🥇 **4⭐ badges** in C, SQL, Java, and Python; **3⭐ badges** in C++ and Problem Solving on HackerRank.
 - 🌐 **3⭐ coder on GeeksforGeeks**, solved **250+ problems**.
 - 💪 Solved **850+ problems on CodeChef**, achieved a highest rating of **1522**.
@@ -51,13 +51,22 @@
 ---
 
 ## 📌 Featured Projects:
-**🚗 [Car Wash Queue Management System](https://github.com/sudheerimmidisetti/car-wash-queue-management)**
-A C-based system to efficiently manage car wash queues using data structures.
-🛠 Tools Used: C
 
-**🏥 [KYH (Know Your Health)](https://github.com/sudheerimmidisetti/kyh-medical-website)**
-A medical website designed to provide accurate information about medicines and diseases.
-🛠 Tools Used: HTML, CSS
+### 🚗 [Car Wash Queue Management System](https://github.com/sudheerimmidisetti/car-wash-queue-management)
+A C-based system to efficiently manage car wash queues using data structures.  
+*🛠 Tools Used:* C, Data Structures
+
+---
+
+### 🩺 [KYH (Know Your Health)](https://gangadharprathap.github.io/KYH/)
+A medical website designed to provide accurate information about medicines and diseases.  
+*🛠 Tools Used:* HTML, CSS  
+
+---
+
+### 🧠 [Leveler AI](https://gangadharprathap.github.io/LEVELER--AI/)
+A self-improvement and training website built to enhance consistency and personal growth.  
+*🛠 Tools Used:* HTML, CSS, JavaScript  
 
 ---
 
