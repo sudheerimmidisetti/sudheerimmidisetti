@@ -72,7 +72,8 @@ A self-improvement and training website built to enhance consistency and persona
 
 ## 📊 GitHub Stats:
 <!-- ![Sudheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheerimmidisetti&show_icons=true&theme=radical) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerimmidisetti&layout=compact&theme=radical)
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerimmidisetti&layout=compact&theme=radical) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudheerimmidisetti&theme=radical)
 
