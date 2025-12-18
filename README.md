@@ -10,7 +10,7 @@
 - 👀 Passionate about programming, data structures, and problem-solving.
 - 🌱 Currently learning Full Stack Development and exploring React & modern web tools.
 - 💻 Certified in C, C++, Java, Python, SQL, HTML, CSS, JS, and ReactJS Basics.
-- 🏆 Achieved a **LeetCode rating of 1694 (Top 13%)** with **575+ problems solved**.
+- 🏆 Achieved a **LeetCode rating of 1694 (Top 13%)** with **580 problems solved**.
 - 🥇 **4⭐ badges** in C, SQL, Java, and Python; **3⭐ badges** in C++ and Problem Solving on HackerRank.
 - 🌐 **3⭐ coder on GeeksforGeeks**, solved **250+ problems**.
 - 💪 Solved **850+ problems on CodeChef**, achieved a highest rating of **1522**.
