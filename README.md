@@ -12,7 +12,7 @@
 - 💻 Certified in C, C++, Java, Python, SQL, HTML, CSS, JS, and ReactJS Basics.
 - 🏆 Achieved a **LeetCode rating of 1694 (Top 13%)** with **580+ problems solved**.
 - 🥇 **4⭐ badges** in C, SQL, Java, and Python; **3⭐ badges** in C++ and Problem Solving on HackerRank.
-- 🌐 **3⭐ coder on GeeksforGeeks**, solved **250+ problems**.
+- 🌐 **3⭐ coder on GeeksforGeeks**, solved **270+ problems**.
 - 💪 Solved **850+ problems on CodeChef**, achieved a highest rating of **1522**.
 - 🧩 **Codeforces Newbie** with a **peak rating of 1115** and **235+ problems solved**.
 - 🚗 Built a **Car Wash Queue Management System** using C (Queue Data Structure).
