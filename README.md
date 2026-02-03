@@ -75,6 +75,6 @@ A self-improvement and training website built to enhance consistency and persona
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerimmidisetti&layout=compact&theme=radical) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudheerimmidisetti&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sudheerimmidisetti&theme=radical)
 
 ---
