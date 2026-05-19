@@ -52,7 +52,7 @@
 
 ## 📌 Featured Projects:
 
-### 🚗 [Car Wash Queue Management System](https://github.com/sudheerimmidisetti/car-wash-queue-management)
+### 🚗 [Car Wash Queue Management System](https://github.com/sudheerimmidisetti/project-c)
 A C-based system to efficiently manage car wash queues using data structures.  
 *🛠 Tools Used:* C, Data Structures
 
