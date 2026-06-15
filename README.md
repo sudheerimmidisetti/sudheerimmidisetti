@@ -10,13 +10,14 @@
 - 👀 Passionate about programming, data structures, and problem-solving.
 - 🌱 Currently learning Full Stack Development and exploring React & modern web tools.
 - 💻 Certified in C, C++, Java, Python, SQL, HTML, CSS, JS, and ReactJS Basics.
-- 🏆 Achieved a **LeetCode rating of 1694 (Top 13%)** with **580+ problems solved**.
+- 🏆 Achieved a **LeetCode rating of 1694 (Top 13%)** with **700+ problems solved**.
 - 🥇 **4⭐ badges** in C, SQL, Java, and Python; **3⭐ badges** in C++ and Problem Solving on HackerRank.
 - 🌐 Solved **280+ problems in GeeksforGeeks**.
-- 💪 Solved **850+ problems on CodeChef**, achieved a highest rating of **1522**.
+- 💪 Solved **950+ problems on CodeChef**, achieved a highest rating of **1598**.
 - 🧩 **Codeforces Newbie** with a **peak rating of 1115** and **270+ problems solved**.
 - 🚗 Built a **Car Wash Queue Management System** using C (Queue Data Structure).
 - 🏥 Created **KYH (Know Your Health)** website using HTML & CSS.
+- 🚀 Built StartWise AI, an AI-powered startup guidance platform, as part of a six-member team using ReactJS, Node.js, Express.js, and MongoDB.
 - 📚 Always eager to learn, build, and contribute to impactful tech projects.
 
 📫 Reach me at: [sudheerimmidisetti@gmail.com](mailto:sudheerimmidisetti@gmail.com)
@@ -67,6 +68,12 @@ A medical website designed to provide accurate information about medicines and d
 ### 🧠 [Leveler AI](https://gangadharprathap.github.io/LEVELER--AI/)
 A self-improvement and training website built to enhance consistency and personal growth.  
 *🛠 Tools Used:* HTML, CSS, JavaScript  
+
+---
+
+### 🚀 StartWise AI
+An AI-powered startup guidance platform developed by a six-member team to assist entrepreneurs with business planning, idea validation, and startup growth strategies.
+*🛠 Tools Used:* ReactJS, Node.js, Express.js, MongoDB, REST APIs
 
 ---
 
