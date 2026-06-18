@@ -1,15 +1,16 @@
 <h1 align="center">👋 Hi, I'm Sudheer Immidisetti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Passionate+about+Problem+Solving;Python+Programmer;Java+Programmer&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Passionate+about+Problem+Solving;Cpp+Programmer;Java+Programmer;Python+Programmer&repeat=true" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me:
-- 👀 Passionate about programming, data structures, and problem-solving.
-- 🌱 Currently learning Full Stack Development and exploring React & modern web tools.
+- 👀 Passionate about Programming, Data Structures, and Poblem Solving.
+- 💼 Full Stack Developer who enjoys turning ideas into real-world web applications using ReactJS, Node.js, Express.js, and MongoDB.
 - 💻 Certified in C, C++, Java, Python, SQL, HTML, CSS, JS, and ReactJS Basics.
+- 🏅 Certified by **Microsoft** in **GitHub Foundations** with knowledge of Git, repositories, and collaboration.
 - 🏆 Achieved a **LeetCode rating of 1694 (Top 13%)** with **700+ problems solved**.
 - 🥇 **4⭐ badges** in C, SQL, Java, and Python; **3⭐ badges** in C++ and Problem Solving on HackerRank.
 - 🌐 Solved **280+ problems in GeeksforGeeks**.
@@ -17,7 +18,7 @@
 - 🧩 **Codeforces Newbie** with a **peak rating of 1115** and **270+ problems solved**.
 - 🚗 Built a **Car Wash Queue Management System** using C (Queue Data Structure).
 - 🏥 Created **KYH (Know Your Health)** website using HTML & CSS.
-- 🚀 Built StartWise AI, an AI-powered startup guidance platform, as part of a six-member team using ReactJS, Node.js, Express.js, and MongoDB.
+- 🚀 Built **StartWise AI**, an AI-powered startup guidance platform, as part of a six-member team using ReactJS, Node.js, Express.js, and MongoDB.
 - 📚 Always eager to learn, build, and contribute to impactful tech projects.
 
 📫 Reach me at: [sudheerimmidisetti@gmail.com](mailto:sudheerimmidisetti@gmail.com)
